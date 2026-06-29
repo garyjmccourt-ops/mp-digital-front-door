@@ -1,5 +1,9 @@
 # Mermaid Pools Digital Front Door
 
+Historical reference only
+Not an active client project
+Reusable pattern extracted into thebrightergroup/brightsites-trade-template
+
 ## Project summary
 
 Mermaid Pools Digital Front Door is the first-stage digital foundation for Mermaid Pools.
